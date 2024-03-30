@@ -56,4 +56,4 @@ YOU WON :Rs4000
 
 **Disclaimer:**
 
-* This is a simple game for entertainment purposes only. Gambling is a risk and should be done responsibly.
+* This is a simple game for entertainment purposes only. 
